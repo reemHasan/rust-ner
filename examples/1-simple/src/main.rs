@@ -8,9 +8,9 @@ fn main() -> anyhow::Result<()> {
 
     //    Define input
     let input = [
-        "My name is Alfredo and I was born in Peru.",
-        "In Portugal the pastel de nata is great.",
-        "I used to work in a small company called ShootQ",
+        "My name is Reem and I was born in lattakia.",
+        "In Syria the baklava is great.",
+        "I used to go every day to beach",
     ];
 
     //    Run model
